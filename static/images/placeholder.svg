@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Image indisponible</title>
+  <desc id="desc">Placeholder neutre utilise lorsqu'une image source n'est plus disponible.</desc>
+  <rect width="1200" height="675" fill="#f2f2f0"/>
+  <rect x="48" y="48" width="1104" height="579" rx="8" fill="none" stroke="#c9c9c4" stroke-width="4"/>
+  <path d="M330 430l142-160 118 132 74-82 206 230H250z" fill="#d8d8d2"/>
+  <circle cx="785" cy="220" r="58" fill="#d8d8d2"/>
+  <text x="600" y="585" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="36" fill="#686863">Image indisponible</text>
+</svg>

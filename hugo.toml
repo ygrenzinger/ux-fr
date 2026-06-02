@@ -1,0 +1,70 @@
+baseURL = "https://ux-fr.com/"
+locale = "fr-fr"
+defaultContentLanguage = "fr"
+title = "Ergonomie, Experience Utilisateur, Design Thinking"
+theme = "PaperMod"
+enableRobotsTXT = true
+enableGitInfo = false
+
+[pagination]
+pagerSize = 10
+
+[permalinks]
+posts = "/:year/:month/:day/:slug/"
+
+[taxonomies]
+category = "category"
+tag = "tag"
+author = "author"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+env = "production"
+description = "Ergonomie, Experience Utilisateur, Design Thinking"
+author = "Yannick Grenzinger"
+defaultTheme = "auto"
+ShowReadingTime = true
+ShowShareButtons = false
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowRssButtonInSectionTermList = true
+ShowToc = false
+comments = false
+images = ["/images/placeholder.svg"]
+
+[params.assets]
+favicon = "/favicon.ico"
+
+[params.homeInfoParams]
+Title = "UX-FR"
+Content = "Ergonomie, Experience Utilisateur, Design Thinking"
+
+[[menu.main]]
+identifier = "definition"
+name = "Definition UX"
+url = "/experience-utilisateur-definition/"
+weight = 10
+
+[[menu.main]]
+identifier = "authors"
+name = "Les auteurs"
+url = "/les-auteurs/"
+weight = 20
+
+[[menu.main]]
+identifier = "archives"
+name = "Archives"
+url = "/archives/"
+weight = 30
+
+[[menu.main]]
+identifier = "search"
+name = "Recherche"
+url = "/search/"
+weight = 40
