@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Consistance d'interface</title>
+  <desc id="desc">Trois fenetres d'application abstraites reprennent les memes positions de menus et boutons pour illustrer la coherence d'interface.</desc>
+  <rect width="960" height="540" fill="#f7f7f4"/>
+  <g stroke="#4f5d5f" stroke-width="4">
+    <rect x="90" y="120" width="230" height="250" rx="10" fill="#fff"/><rect x="365" y="120" width="230" height="250" rx="10" fill="#fff"/><rect x="640" y="120" width="230" height="250" rx="10" fill="#fff"/>
+  </g>
+  <g fill="#e8e4d8"><rect x="90" y="120" width="230" height="42" rx="10"/><rect x="365" y="120" width="230" height="42" rx="10"/><rect x="640" y="120" width="230" height="42" rx="10"/></g>
+  <g fill="#2f6f73"><circle cx="120" cy="142" r="7"/><circle cx="145" cy="142" r="7"/><circle cx="170" cy="142" r="7"/><circle cx="395" cy="142" r="7"/><circle cx="420" cy="142" r="7"/><circle cx="445" cy="142" r="7"/><circle cx="670" cy="142" r="7"/><circle cx="695" cy="142" r="7"/><circle cx="720" cy="142" r="7"/></g>
+  <g fill="#cfd8d6"><rect x="120" y="190" width="170" height="22"/><rect x="120" y="235" width="130" height="22"/><rect x="395" y="190" width="170" height="22"/><rect x="395" y="235" width="130" height="22"/><rect x="670" y="190" width="170" height="22"/><rect x="670" y="235" width="130" height="22"/></g>
+  <path d="M150 420h660" stroke="#2f6f73" stroke-width="8" stroke-linecap="round"/><path d="M810 420l-42-28v56z" fill="#2f6f73"/>
+  <text x="480" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#666">Meme structure, moins d'apprentissage.</text>
+</svg>

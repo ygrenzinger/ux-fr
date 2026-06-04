@@ -23,6 +23,6 @@ Il faut prendre en considération la loi de Fitts dans le design de système né
 
 Des liens pour compléter l’information :
  [http://particletree.com/features/visualizing-fittss-law/](http://particletree.com/features/visualizing-fittss-law/)
- [http://pii.tls.cena.fr/docs/NR97-621.pdf](/images/placeholder.svg)
+ [référence stable sur la loi de Fitts](https://doi.org/10.1016/j.ijhcs.2004.09.001)
 
 Texte traduit provenant de [Universal Principles of Design](http://www.amazon.fr/gp/product/1592535879?ie=UTF8&tag=wwwuxfrcom-21&linkCode=as2&camp=1642&creative=6746&creativeASIN=1592535879)

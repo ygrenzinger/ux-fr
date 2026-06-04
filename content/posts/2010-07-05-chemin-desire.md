@@ -19,13 +19,13 @@ Les architectes paysagistes utilisent cette méthode pour déterminer les chemin
 
 Bien sur ce principe a une utilité qui ne se limite pas au design des allées. Par exemple, utiliser un clavier traditionnel force les poignets à se tordre ce qui entraine lors d’une utilisation intensive des douleurs et pour cette raison des constructeurs ont décidé de construire des claviers qui se sépare en leur centre (voir photo ci-dessous).
 
-![Clavier ergonomique de Microsoft](/images/placeholder.svg "Clavier ergonomique de Microsoft")
+![Clavier ergonomique de Microsoft](/wp-content/uploads/recovered/ergonomic-keyboard.svg "Clavier ergonomique de Microsoft")
 
 Clavier ergonomique de Microsoft
 
 On peut aussi utiliser ce principe grâce à des outils de suivi du regard ou « eye-tracking » qui génèrent des « cartes de chaleurs » permettant de connaître le chemin désiré par l’utilisateur, ces préférences, ces zones d’attirance.. Les résultats permettent d’optimiser le design d’une interface ou d’un site web.
 
-![Eye Tracking d'un site e-commerce](/images/placeholder.svg "Eye Tracking d'un site e-commerce")
+![Eye Tracking d'un site e-commerce](/wp-content/uploads/recovered/eye-tracking-heatmap.svg "Eye Tracking d'un site e-commerce")
 
 Eye Tracking d'un site e-commerce
 

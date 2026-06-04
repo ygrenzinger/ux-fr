@@ -11,7 +11,7 @@ categories: ["Principe de design"]
 tags: ["Accessibilité", "Principe de design", "Tolerance"]
 aliases: ["/2010/05/26/accessibilite"]
 ---
-![Les controles de les controles d'ascenseur sont accessibles : informations sonores, visuelles et tactiles](/images/placeholder.svg "Ascenseur et accessibilité")
+![Les controles de les controles d'ascenseur sont accessibles : informations sonores, visuelles et tactiles](/wp-content/uploads/recovered/accessible-elevator-controls.svg "Ascenseur et accessibilité")
 
 Les objets et l’environnement devraient être désigné pour être utilisé sans modification par le plus de monde possible.
 

@@ -15,7 +15,7 @@ Je n’ai participé qu’à la matinée de cette journée qui a commencé par l
 
 L’UX Design répond à la complexité grandissante de notre écosystème et de notre environnement. Par exemple pour interagir avec sa banque, il y a de plus en plus de points et de canaux d’interaction, de points de contacts et avec de multiples supports. Or les entreprises n’ont pas pensé les choses de façon holistique (mais souvent par département). Une terminologie plus claire et cohérente par exemple permet d’économiser du budget dans l’entreprise. L’UX Design permet de penser les choses en terme d’expérience du point de vue du client et va jusqu’à modifier le business model canvas.
 
-[![Business Model Canvas](/images/placeholder.svg "Business Model Canvas")](http://en.wikipedia.org/wiki/Business_Model_Canvas)
+[![Business Model Canvas](/wp-content/uploads/recovered/business-model-canvas.png "Business Model Canvas")](https://en.wikipedia.org/wiki/Business_Model_Canvas)
 
 Par exemple, le cœur de métier d’Amazon à l’origine était la logistique (avoir des entrepôts partout dans le monde) avant de devenir un des plus gros site web d’e-commerce mondiaux et un fournisseur de service informatique (Cloud en particulier).
 

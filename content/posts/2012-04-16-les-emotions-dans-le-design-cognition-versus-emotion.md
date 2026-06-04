@@ -15,7 +15,7 @@ aliases: ["/2012/04/16/les-emotions-dans-le-design-cognition-versus-emotion"]
 
 Cognition vs Emotion dans le design
 
-Cet article est le premier d’une série d’articles autour des émotions dans le design après ma lecture des livres [Design émotionnel de Aarron Walter](http://www.amazon.fr/gp/product/2212133987/ref=as_li_ss_tl?ie=UTF8&tag=wwwuxfrcom-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=2212133987)![](/images/placeholder.svg) et [Design Emotionnel de Donald Norman](http://www.amazon.fr/gp/product/2804165701/ref=as_li_ss_tl?ie=UTF8&tag=wwwuxfrcom-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=2804165701)![](/images/placeholder.svg).
+Cet article est le premier d’une série d’articles autour des émotions dans le design après ma lecture des livres [Design émotionnel de Aarron Walter](http://www.amazon.fr/gp/product/2212133987/ref=as_li_ss_tl?ie=UTF8&tag=wwwuxfrcom-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=2212133987) et [Design Emotionnel de Donald Norman](http://www.amazon.fr/gp/product/2804165701/ref=as_li_ss_tl?ie=UTF8&tag=wwwuxfrcom-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=2804165701).
 
 Nous allons d’abord voir comment les émotions agissent sur nos actions de tous les jours.
 

@@ -28,7 +28,7 @@ Schéma trouvé à partir du PInterest http://pinterest.com/BikeFurious/design-m
 
 Cette méthode se base aussi sur des principes tel que la co-créativité, un design centré sur l’utilisateur, l’empathie avec celui-ci, une évolution permanente du produit en essayant d’épurer et de simplifier plus que de rajouter des fonctionnalités.
 
-Benjamin nous présente aussi quelques outils comme [la carte des parties prenantes](https://wiki.library.ucsf.edu/display/EdTechStrategic/1.+Stakeholders+Map) ou la méthodologie RITE (plus d’info sur ce [PDF](/images/placeholder.svg) ou sur [cet article](http://bigdesignevents.com/2011/08/5-ways-to-improve-your-next-agile-project-with-the-rite-method/)).
+Benjamin nous présente aussi quelques outils comme [la carte des parties prenantes](https://wiki.library.ucsf.edu/display/EdTechStrategic/1.+Stakeholders+Map) ou la méthodologie RITE (plus d’info sur ce [PDF sur la méthode RITE](/wp-content/uploads/recovered/rite-method.pdf) ou sur [cet article](http://bigdesignevents.com/2011/08/5-ways-to-improve-your-next-agile-project-with-the-rite-method/)).
 
 Si vous voulez creuser le sujet, j’ai déjà parlé du design thinking dans ces articles :
 

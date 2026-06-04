@@ -27,7 +27,7 @@ Le corollaire de « la forme suit la fonction » peut être interprété de deux
 
 Le corollaire a été adopté et popularisé par les architectes modernes au début du 20ème siècle puis a été adopté par les designers dans de nombreuses disciplines. On parle aussi dans un sens plus général de fonctionnalisme. Les aspects fonctionnels d’un design ont l’avantage d’être moins subjectifs que les aspects esthétiques.
 
-![La forme suit la fonction sur google.com](/images/placeholder.svg "La forme suit la fonction sur google.com")
+![La forme suit la fonction sur google.com](/wp-content/uploads/recovered/google-home-page-2.jpg "La forme suit la fonction sur google.com")
 
 La page d'accueil du moteur de recherche Google est un parfait exemple de la forme suit la fonction
 

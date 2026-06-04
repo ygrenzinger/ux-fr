@@ -13,7 +13,7 @@ aliases: ["/2010/09/15/la-proximite"]
 ---
 La proximité est un des nombreux principes Gestalt de perception. Les éléments proches sont considérés comme un seul groupe et étant plus liés entre eux que des éléments éloignés.
 
-[![Principe Gestalt de proximité](/images/placeholder.svg "Principe Gestalt de proximité")](http://en.wikipedia.org/wiki/Gestalt_psychology)
+[![Principe Gestalt de proximité](/wp-content/uploads/recovered/gestalt-proximity.svg "Principe Gestalt de proximité")](https://en.wikipedia.org/wiki/Gestalt_psychology)
 
 Les groupes résultant de cette proximité réduisent la complexité du design et renforcent les relations entre éléments. Au contraire, un manque de proximité crée la perception de groupes multiples et disparates et renforcent les différences entre éléments. Certaines dispositions proches impliquent des types de relations spécifiques et devraient être prises en considération. Par exemple, des éléments connectés ou se super posant sont communément interprétés comme partageant un ou plusieurs attributs alors que des éléments proches mais non connectés sont considérés comme apparentés mais indépendant.
 

@@ -11,7 +11,7 @@ categories: ["Principe de design"]
 tags: ["Affordance", "Principe de design"]
 aliases: ["/2010/05/29/affordance"]
 ---
-![Une porte avec une poginée devant être poussée](/images/placeholder.svg "Une porte avec une poginée devant être poussée")
+![Une porte avec une poginée devant être poussée](/wp-content/uploads/recovered/affordance-push-door.svg "Une porte avec une poginée devant être poussée")
 
 Comme le dit très bien [Wikipédia](http://fr.wikipedia.org/wiki/Affordance), l*‘affordance est la capacité d’un objet à suggérer sa propre utilisation.*
 

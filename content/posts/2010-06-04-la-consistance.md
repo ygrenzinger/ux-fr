@@ -18,7 +18,7 @@ L’utilisabilité d’un système est améliorée quand les différentes partie
  La consistance interne concerne les éléments entre eux dans un système. Les éléments groupés de façon logique devraient être esthétiquement et fonctionnellement constant entre eux. C’est un indicateur que le système a été designé et pas assemblé pêle-mêle.
  La consistance externe concerne différents éléments d’un même environnement qui étend la consistance interne à travers de multiple systèmes indépendants. On peut prendre en exemple les barres de menus des systèmes d’opérations (Windows et surtout Mac OSX).
 
-[![MacOS et consistance de l'interface](/images/placeholder.svg "MacOS et consistance de l'interface")](http://technestreport.com/blog/wp-content/uploads/2009/01/os_x_interface_consistency.jpg)
+![MacOS et consistance de l'interface](/wp-content/uploads/recovered/interface-consistency.svg "MacOS et consistance de l'interface")
 
 MacOS et consistance de l'interface
 

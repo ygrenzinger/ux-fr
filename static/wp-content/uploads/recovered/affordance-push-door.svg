@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Porte a pousser et affordance</title>
+  <desc id="desc">Schema d'une porte avec plaque plate, fleche de poussée et absence de poignée pour illustrer l'affordance d'une action.</desc>
+  <rect width="960" height="540" fill="#f7f7f4"/>
+  <rect x="300" y="70" width="360" height="410" rx="8" fill="#e8e4d8" stroke="#4f5d5f" stroke-width="6"/>
+  <rect x="455" y="210" width="90" height="150" rx="8" fill="#b7c7c9" stroke="#4f5d5f" stroke-width="4"/>
+  <path d="M190 270h225" stroke="#2f6f73" stroke-width="18" stroke-linecap="round"/>
+  <path d="M415 270l-54-38v76z" fill="#2f6f73"/>
+  <text x="480" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#333">plaque = pousser</text>
+  <text x="480" y="512" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#666">La forme visible suggere l'action possible.</text>
+</svg>

@@ -67,4 +67,4 @@ Même problème avec l’application « Calendrier » sur iPad : ce qui me gêne
 
 Dernier exemple [BumpTop](http://www.bumptop.com/) : il est basé sur un principe qui nous rend la vie dure : la gravité. Maintenant je dois lutter conte elle aussi dans mon ordinateur…
 
-![](/images/placeholder.svg)
+![Metaphore de bureau et gravite](/wp-content/uploads/recovered/bumptop-gravity-metaphor.svg "Metaphore de bureau et gravite")

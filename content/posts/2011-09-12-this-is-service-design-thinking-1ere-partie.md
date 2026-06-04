@@ -23,7 +23,7 @@ Ce résumé ne reprend pas tout le livre mais s’applique à reprendre les prin
 Les 5 principes permettant de penser le design de service
 
 **1 Centré sur l’utilisateur**
- [![Design centré sur l'utilisateur](/images/placeholder.svg "Design centré sur l'utilisateur")](http://visual.ly/user-centred-design)
+ [![Design centré sur l'utilisateur](/wp-content/uploads/recovered/user-centred-design.svg "Design centré sur l'utilisateur")](/wp-content/uploads/recovered/user-centred-design.svg)
  Il est nécessaire de se mettre d’accord sur un langage commun et avoir un certain degré de participation du client. Les services sont le fruit d’une interaction entre le fournisseur de service et le client. Même si les descriptions statistiques des utilisateurs sont utiles, une véritable compréhension des habitudes, de la culture, du contexte social et de la motivation des utilisateurs est cruciale. La compréhension et la divulgation de ces différentes mentalités correspond au début de la conception de service. Une approche centrée sur l’utilisateur offre un langage commun : celui de l’utilisateur du service.
 
 **2 Co-créatif**

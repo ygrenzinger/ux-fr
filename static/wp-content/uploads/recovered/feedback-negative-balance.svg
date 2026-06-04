@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Feedback negatif et equilibre</title>
+  <desc id="desc">Schema abstrait d'un systeme d'equilibre qui corrige l'inclinaison pour revenir vers un point stable.</desc>
+  <rect width="960" height="540" fill="#f7f7f4"/>
+  <line x1="210" y1="380" x2="750" y2="380" stroke="#4f5d5f" stroke-width="6"/>
+  <circle cx="480" cy="365" r="40" fill="#b7c7c9" stroke="#4f5d5f" stroke-width="5"/>
+  <line x1="480" y1="325" x2="430" y2="145" stroke="#4f5d5f" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="423" cy="122" r="30" fill="#e8e4d8" stroke="#4f5d5f" stroke-width="5"/>
+  <path d="M380 250c-48 26-72 70-70 122" fill="none" stroke="#d75f3f" stroke-width="8" stroke-linecap="round"/>
+  <path d="M310 372l-23-42 49 9z" fill="#d75f3f"/>
+  <path d="M560 255c55 18 90 57 102 112" fill="none" stroke="#2f6f73" stroke-width="8" stroke-linecap="round"/>
+  <path d="M662 367l-36-34 50-5z" fill="#2f6f73"/>
+  <text x="480" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#666">Le systeme compense l'ecart pour stabiliser l'equilibre.</text>
+</svg>

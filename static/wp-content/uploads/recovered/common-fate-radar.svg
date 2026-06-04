@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Destin commun dans un radar</title>
+  <desc id="desc">Points sur un radar groupes par direction commune de mouvement, illustrant le principe Gestalt du destin commun.</desc>
+  <rect width="960" height="540" fill="#f7f7f4"/>
+  <circle cx="480" cy="270" r="190" fill="#eef2ef" stroke="#4f5d5f" stroke-width="5"/>
+  <circle cx="480" cy="270" r="120" fill="none" stroke="#adb8ba" stroke-width="3"/>
+  <circle cx="480" cy="270" r="55" fill="none" stroke="#adb8ba" stroke-width="3"/>
+  <line x1="480" y1="80" x2="480" y2="460" stroke="#adb8ba" stroke-width="3"/><line x1="290" y1="270" x2="670" y2="270" stroke="#adb8ba" stroke-width="3"/>
+  <g fill="#2f6f73">
+    <circle cx="395" cy="230" r="14"/><circle cx="435" cy="250" r="14"/><circle cx="475" cy="270" r="14"/>
+    <path d="M410 205l44-12-16 42z"/><path d="M450 225l44-12-16 42z"/><path d="M490 245l44-12-16 42z"/>
+  </g>
+  <g fill="#d75f3f">
+    <circle cx="570" cy="205" r="14"/><circle cx="600" cy="250" r="14"/><circle cx="630" cy="295" r="14"/>
+    <path d="M540 216l-40 22 4-46z"/><path d="M570 261l-40 22 4-46z"/><path d="M600 306l-40 22 4-46z"/>
+  </g>
+  <text x="480" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#666">Des elements qui bougent ensemble sont perçus comme un groupe.</text>
+</svg>

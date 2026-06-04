@@ -11,7 +11,7 @@ categories: ["General"]
 tags: ["design", "Emotion", "expérience utilisateur"]
 aliases: ["/2012/04/20/les-emotions-dans-le-design-les-trois-niveaux-du-design"]
 ---
-Cet article est le deuxième d’une série d’articles autour des émotions dans le design après ma lecture des livres [Design émotionnel de Aarron Walter](http://www.amazon.fr/gp/product/2212133987/ref=as_li_ss_tl?ie=UTF8&tag=wwwuxfrcom-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=2212133987)![](/images/placeholder.svg) et [Design Emotionnel de Donald Norman](http://www.amazon.fr/gp/product/2804165701/ref=as_li_ss_tl?ie=UTF8&tag=wwwuxfrcom-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=2804165701)![](/images/placeholder.svg).
+Cet article est le deuxième d’une série d’articles autour des émotions dans le design après ma lecture des livres [Design émotionnel de Aarron Walter](http://www.amazon.fr/gp/product/2212133987/ref=as_li_ss_tl?ie=UTF8&tag=wwwuxfrcom-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=2212133987) et [Design Emotionnel de Donald Norman](http://www.amazon.fr/gp/product/2804165701/ref=as_li_ss_tl?ie=UTF8&tag=wwwuxfrcom-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=2804165701).
 
 On a beaucoup critiqué « Le design des objets de tous les jours » de Donald Norman ([vous pouvez trouver mon résumé ici](/2010/05/13/resume-du-design-of-every-day-things-de-donald-norman/)) de donner naissance à des designs surement très utilisables mais aussi très moches. Il se défend dans Design émotionnel d’avoir voulu dénigrer les émotions et l’esthétisme mais élever l’utilisabilité au même rang que celles-ci. Mais il avoue qu’un design utilisable n’est pas nécessairement agréable. La question est : peut-on faire cohabiter le plaisir et l’utilisabilité ?
 

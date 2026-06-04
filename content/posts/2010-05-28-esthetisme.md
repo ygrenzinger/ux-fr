@@ -11,7 +11,7 @@ categories: ["Principe de design"]
 tags: ["Esthétisme", "Principe de design", "Tolerance", "Utilisabilité"]
 aliases: ["/2010/05/28/esthetisme"]
 ---
-![L'esthetisme et Apple](/images/placeholder.svg "L'esthetisme et Apple")
+![L'esthetisme et Apple](/wp-content/uploads/recovered/aesthetic-product-appeal.svg "L'esthetisme et Apple")
 
 Un design esthétique est perçu comme plus facile à utiliser et a une plus grande chance d’être utilisée.
 

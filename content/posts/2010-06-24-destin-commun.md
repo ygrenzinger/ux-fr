@@ -17,7 +17,7 @@ La relation perçue est plus forte quand les éléments bougent au même moment 
 
 Il faut utiliser cette technique lors de l’affichage d’information pour créer des groupes et des relations entre les objets.
 
-![Utilisation du principe du destin commun dans les radars](/images/placeholder.svg "Utilisation du principe du destion commun dans les radars")
+![Utilisation du principe du destin commun dans les radars](/wp-content/uploads/recovered/common-fate-radar.svg "Utilisation du principe du destin commun dans les radars")
 
 Utilisation du principe du destion commun dans les radars
 

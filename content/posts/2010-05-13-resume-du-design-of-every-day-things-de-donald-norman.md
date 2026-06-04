@@ -65,7 +65,7 @@ Pour comprendre ces comportements liés aux erreurs et au modèle conceptuel, il
 
 Ces taches ou actions sont divisées en plusieurs étapes :
 
-![Les étapes d'une action pour l'ergonomie](/images/placeholder.svg "Les étapes d'une action pour l'ergonomie")
+![Les étapes d'une action pour l'ergonomie](/wp-content/uploads/recovered/norman-seven-stages-action.svg "Les étapes d'une action pour l'ergonomie")
 
 Lorsque nous voulons effectuer une tâche, nous avons un but final souvent vague. Ce but doit être transformé en étapes intermédiaires, des buts plus précis appelés intentions. Les actions relient ce qui doit être fait (les buts ou intentions) avec l’ensemble des actions physiques possibles. Quand nous avons décidé d’une action, il faut cependant l’exécuter : c’est le stage de l’exécution. Nous retrouvons avec trois étapes : intention, séquence d’action et exécution. Enfin nous avons l’évaluation qui se décompose en trois étapes : percevoir ce qui s’est passé, l’interpréter et finalement comparer ce qui est arrivé avec ce que nous voulions.
 
@@ -129,7 +129,7 @@ Il faut utiliser les règles et les contraintes pour créer de l’organisation 
 
 Par exemple ci-dessous nous avons cote à cote deux exemples de plaques de cuisson. Celle de gauche a ces contrôles classiquement alignés sur le coté et un organisation rectangulaire des plaques ce qui rend leur association avec leur plaque chauffante difficile. Celle de droite a ces contrôles regroupés en bas et ses plaques sont légèrement décalées pour faire correspondre de façon visuelle le contrôle à sa plaque.
 
-![](/images/placeholder.svg)![](/images/placeholder.svg)
+![Mapping des plaques de cuisson](/wp-content/uploads/recovered/norman-stovetop-mapping.svg "Mapping des plaques de cuisson")
 
 http://www.interactiondesignblog.com/2008/07/mapping-of-controls/
 
@@ -155,14 +155,12 @@ Les contraintes sont de quatre types :
 
 On peut prendre l’exemple des « Norman’s door » ou des boutons (table de mixage).
 
-![](/images/placeholder.svg)
-
-![](/images/placeholder.svg)
+![Affordance d'une porte et code des boutons](/wp-content/uploads/recovered/norman-buttons-and-controls.svg "Affordance d'une porte et code des boutons")
 
 Les boutons sont un des points importants du design d’une interface graphique : comment eviter les erreurs ? comment les grouper et les positionner ? Comment utiliser les codes de formes ?
  Par exemple comment faire correspondre une zone de lumière (2D) avec une ligne d’interrupteurs (1D) ? Le mieux est tout simplement de faire correspondre l’arrangement des boutons avec l’arrangement des lumières (2D à 2D).
 
-![](/images/placeholder.svg)
+![Mapping interrupteurs et zones lumineuses](/wp-content/uploads/recovered/norman-light-switch-mapping.svg "Mapping interrupteurs et zones lumineuses")
 
 Pour savoir quoi faire, en plus des associations et des contraintes, il y a [la visibilité](/2010/09/17/la-visibilite/)et le retour d’information (« feedback ») :
 
@@ -306,7 +304,7 @@ Il y a trois modèles conceptuels qu’il faut pouvoir relier :
 
 - Idéalement ces deux modèles sont identiques. Cependant ceux ci communiquent par l’image du système : son apparence physique, ces opérations, la facon dont il répond, le manuel et les instructions qui l’accompagne.
 
-![](/images/placeholder.svg)
+![Relations entre modèle du designer, image du système et modèle utilisateur](/wp-content/uploads/recovered/norman-conceptual-models.svg "Relations entre modèle du designer, image du système et modèle utilisateur")
 
 Le designer doit faire attention à la psychologie de la personne, aux limites de ce qu’une personne peut garder en mémoire ou encore au nombre de pensées pouvant être effectuées en parallèle.
 
@@ -346,6 +344,6 @@ Liens :
  [Un article sur les 7 étapes d’une action](http://www.gobz.org/2008/03/21/les-7-etapes-dune-action/)
  [Une autre synthèse du DoeT](http://membres.multimania.fr/interaction/Documentation/NormanDesignEveryday/designEverydays.html)
  [http://www.scribd.com/doc/35432972/The-Design-of-Everyday-Things](http://www.scribd.com/doc/35432972/The-Design-of-Everyday-Things)
- [Une excellent présentation / résumé en anglais](/images/placeholder.svg)
+ [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things)
 
 [Yannick Grenzinger](http://ygrenzinger.blogspot.com)

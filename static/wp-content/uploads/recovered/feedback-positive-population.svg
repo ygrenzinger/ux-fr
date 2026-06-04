@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Feedback positif sur la population</title>
+  <desc id="desc">Boucle de retroaction positive ou la population augmente les naissances, qui augmentent a leur tour la population.</desc>
+  <rect width="960" height="540" fill="#f7f7f4"/>
+  <circle cx="300" cy="270" r="92" fill="#e8e4d8" stroke="#4f5d5f" stroke-width="5"/>
+  <circle cx="660" cy="270" r="92" fill="#e8e4d8" stroke="#4f5d5f" stroke-width="5"/>
+  <text x="300" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#333">Population</text>
+  <text x="660" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#333">Naissances</text>
+  <text x="660" y="298" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#2f6f73">(+)</text>
+  <path d="M392 245c52-70 164-70 216 0" fill="none" stroke="#2f6f73" stroke-width="9" stroke-linecap="round"/>
+  <path d="M608 245l-42-11 18 40z" fill="#2f6f73"/>
+  <path d="M568 336c-62 70-174 70-236 0" fill="none" stroke="#2f6f73" stroke-width="9" stroke-linecap="round"/>
+  <path d="M332 336l42 10-19-39z" fill="#2f6f73"/>
+  <text x="480" y="475" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#666">Une sortie renforce l'entree suivante.</text>
+</svg>

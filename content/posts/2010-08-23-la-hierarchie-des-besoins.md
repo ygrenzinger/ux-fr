@@ -23,7 +23,7 @@ Le principe de hiérarchie de besoin précise que le design doit répondre au be
 
 -  La créativité correspond au niveau où tous les besoins ont été satisfait et que les utilisateurs trouvent des nouvelles utilisations ! Les designs à ce niveau ont la plus forte valeur ajoutée et atteignent même une relation de culte par leurs utilisateurs.
 
-![La hiérarchie des besoins du design](/images/placeholder.svg "La hiérarchie des besoins du design")
+![La hiérarchie des besoins du design](/wp-content/uploads/recovered/design-hierarchy-of-needs.png "La hiérarchie des besoins du design")
 
 Il faut prendre en compte cette hiérarchie de besoin dans le design et faire en sorte que les besoins de bas niveau sont satisfaisant avant de vouloir répondre aux besoins de plus haut niveau.
 

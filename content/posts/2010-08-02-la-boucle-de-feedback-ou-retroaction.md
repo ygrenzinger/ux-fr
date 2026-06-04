@@ -17,13 +17,13 @@ Chaque action crée une réaction égale et opposée. Quand la réaction revient
 
 **Le feedback positif** amplifie les sorties du système (en gros s’auto-alimente) pour gérer une croissance ou un déclin plus rapide. Le feedback négatif affaiblie la sortie, stabilisant le système autour d’un point d’équilibre. Le feedback positif est efficace pour créer un changement mais arrive à des conséquences négatives s’il n’est pas modéré par un feedback négatif.
 
-![Feedback positif sur la population](/images/placeholder.svg "Feedback positif sur la population")
+![Feedback positif sur la population](/wp-content/uploads/recovered/feedback-positive-population.svg "Feedback positif sur la population")
 
 Feedback positif sur la population
 
 **Le feedback négatif** est efficace pour résister au changement. Par exemple le « Segway Human Transporter » utilise un feedback négatif pour maintenir l’équilibre. Comme l’utilisateur se penche en avant ou en arrière, le système accélère ou décélère pour maintenir l’équilibre.
 
-![Le segway utilise un feedback negatif pour maintenir l'équilibre](/images/placeholder.svg "Le segway utilise un feedback negatif pour maintenir l'équilibre")
+![Le segway utilise un feedback negatif pour maintenir l'équilibre](/wp-content/uploads/recovered/feedback-negative-balance.svg "Le segway utilise un feedback negatif pour maintenir l'équilibre")
 
 Le segway utilise un feedback negatif pour maintenir l’équilibre
 

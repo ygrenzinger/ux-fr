@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Design centre sur l'utilisateur</title>
+  <desc id="desc">Cycle iteratif reliant recherche utilisateur, ideation, prototype et test autour des besoins de l'utilisateur.</desc>
+  <rect width="960" height="540" fill="#f7f7f4"/>
+  <circle cx="480" cy="270" r="88" fill="#e8e4d8" stroke="#4f5d5f" stroke-width="5"/>
+  <circle cx="480" cy="238" r="28" fill="#b7c7c9"/>
+  <path d="M420 322c20-45 100-45 120 0" fill="#b7c7c9"/>
+  <text x="480" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#333">utilisateur</text>
+  <g fill="#fff" stroke="#2f6f73" stroke-width="4">
+    <rect x="382" y="55" width="196" height="60" rx="12"/><rect x="690" y="235" width="170" height="60" rx="12"/>
+    <rect x="382" y="425" width="196" height="60" rx="12"/><rect x="90" y="235" width="170" height="60" rx="12"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="22" fill="#333" text-anchor="middle">
+    <text x="480" y="93">Rechercher</text><text x="775" y="273">Ideer</text><text x="480" y="463">Tester</text><text x="175" y="273">Prototyper</text>
+  </g>
+  <path d="M575 90c120 35 200 100 218 210M770 330c-50 115-135 175-265 182M425 512c-125-35-205-105-224-220M225 230c45-115 130-180 265-185" fill="none" stroke="#2f6f73" stroke-width="6" stroke-linecap="round"/>
+</svg>
