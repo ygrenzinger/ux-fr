@@ -19,7 +19,7 @@ Enfin les plus curieux auront noté que la norme ISO est d’abord une norme d�
 En fait il est extrêmement difficile de définir correctement tous les termes utilisés pour définir les domaines et les rôles compris dans la sphère de l’expérience utilisateur. Le design est un terme très général qui pour moi est affilié à la conception d’un produit avec des contraintes ([mais je pense qu’on pourrait en discuter longtemps](http://www.love.com.au/index.php/blog-items/item/32-defn-design)). On parle d’ailleurs de [User Experience Design](http://en.wikipedia.org/wiki/User_experience_design).
  L’ergonomie est le terme que les anciens connaissent le mieux et l’ergonome est très souvent quelqu’un qu’on appelle pour créer une bonne expérience utilisateur. Nous reste à savoir si le Usability Expert, le Web Designer, l’Information Architect ou encore l’UI Designer (et j’en oublie certainement) sont des spécialistes de sous-domaines de l’expérience utilisateur ou des rôles dont les frontières sont très souvent floues.
 
-[![Les métiers de l'expérience utilisateur](/wp-content/uploads/2010/06/user-experience-design-explained.gif)](http://www.montparnas.com/articles/what-is-user-experience-design/)
+![Les métiers de l'expérience utilisateur](/wp-content/uploads/2010/06/user-experience-design-explained.gif)
 
 Les métiers de l’expérience utilisateur
 
@@ -61,13 +61,13 @@ Mais la définition que je préfère est surement celle amené par Jesse James G
 
 - l’aspect visuel qui permettra de rendre l’ensemble plus désirable et d’agir principalement sur nos émotions
 
-[![Les niveaux de l'architecture UX](/wp-content/uploads/2010/06/ux-architecture.jpg)](http://www.sccc.premiumdw.com/web202/the-user-experience/)
+![Les niveaux de l'architecture UX](/wp-content/uploads/2010/06/ux-architecture.jpg)
 
 Les niveaux de l’architecture UX
 
 Et pour finir encore une autre façon de voir l’UX:
 
-[![Encore une autre façon de voir l'expérience utilisateur](/wp-content/uploads/2010/06/diagrame_experience_utilisateur.png)](http://themetaq.com/queue/spectrum-of-user-experience)
+![Encore une autre façon de voir l'expérience utilisateur](/wp-content/uploads/2010/06/diagrame_experience_utilisateur.png)
 
 Le spectre de l’expérience utilisateur
 

@@ -1,0 +1,6 @@
+{{- $destination := .Destination -}}
+{{- $basePath := strings.TrimSuffix "/" (urls.Parse site.BaseURL).Path -}}
+{{- if and (strings.HasPrefix $destination "/") (not (strings.HasPrefix $destination "//")) $basePath -}}
+  {{- $destination = printf "%s/%s" $basePath (strings.TrimPrefix "/" $destination) -}}
+{{- end -}}
+<a href="{{ $destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>
