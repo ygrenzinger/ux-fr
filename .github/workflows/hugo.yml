@@ -38,7 +38,7 @@ jobs:
           hugo-version: "latest"
           extended: true
       - name: Build
-        run: hugo --minify --baseURL "https://ygrenzinger.github.io/ux-fr/"
+        run: hugo --minify
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
