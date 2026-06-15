@@ -37,13 +37,10 @@ ShowRssButtonInSectionTermList = true
 ShowToc = false
 comments = false
 images = ["/images/placeholder.svg"]
+disableSpecial1stPost = true
 
 [params.assets]
 favicon = "/favicon.ico"
-
-[params.homeInfoParams]
-Title = "UX-FR"
-Content = "Ergonomie, Experience Utilisateur, Design Thinking"
 
 [[menu.main]]
 identifier = "definition"
